@@ -6,7 +6,7 @@ if ('scrollRestoration' in history) {
     history.scrollRestoration = 'manual';
 };
 
-const text = "Happy Birthday, baby! 💕";
+const text = "Happy Birthday, Ladliii! 💕";
 let index = 0;
 
 function typeWriter() {
